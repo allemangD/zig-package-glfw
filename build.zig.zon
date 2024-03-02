@@ -1,0 +1,15 @@
+.{
+    .name = "learnzig",
+    .version = "0.0.0",
+
+    .dependencies = .{
+        .glfw = .{
+            .url = "https://github.com/glfw/glfw/archive/refs/tags/3.4.tar.gz",
+            .hash = "1220c46ebcac607065f942193b82a21b87213fca4b0d50c83461f8f5e22955fcb88f",
+        },
+    },
+
+    .paths = .{
+        "",
+    },
+}
